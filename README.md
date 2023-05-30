@@ -1,2 +1,2 @@
 # testDoc
-Testing Documnet
+Testing Documents
